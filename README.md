@@ -2,7 +2,7 @@
 
 A premium, responsive client-delivery workspace concept for boutique agencies and consultancies.
 
-> **Live demo:** deployment URL will be added after Vercel publication.
+> **Live demo:** https://velora-clientos-concept.vercel.app
 
 ## Concept
 
