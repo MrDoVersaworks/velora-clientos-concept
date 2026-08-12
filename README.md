@@ -23,19 +23,19 @@ Velora brings projects, clients, conversations, finance, and operating signals i
 
 ### Landing experience
 
-![Velora ClientOS landing page](docs/landing.png)
+![Velora ClientOS landing page](docs/landing.svg)
 
 ### Dashboard overview
 
-![Velora ClientOS dashboard](docs/dashboard.png)
+![Velora ClientOS dashboard](docs/dashboard.svg)
 
 ### Sign-in experience
 
-![Velora ClientOS sign-in](docs/signin.png)
+![Velora ClientOS sign-in](docs/signin.svg)
 
 ### Mobile experience
 
-![Velora ClientOS mobile view](docs/mobile.png)
+![Velora ClientOS mobile view](docs/mobile.svg)
 
 ## Demo account
 
@@ -66,6 +66,10 @@ npm test
 ├── styles.css
 ├── app.js
 ├── docs/
+│   ├── landing.svg
+│   ├── dashboard.svg
+│   ├── signin.svg
+│   └── mobile.svg
 ├── tests/
 │   └── smoke.mjs
 ├── tools/
